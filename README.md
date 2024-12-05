@@ -1,4 +1,4 @@
-# Criativo Landing Page - Creative Agency Cmpany Website using HTML5, CSS3, Bootstrap5 and JavaScript 
+# Criativo Landing Page - Creative Agency Company Website using HTML5, CSS3, Bootstrap5 and JavaScript 
 
 ![Landing Page](/images/preview.png)
 
