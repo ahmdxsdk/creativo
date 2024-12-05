@@ -1,8 +1,8 @@
-# Criativ Landing Page - Creative Agency Cmpany Website using HTML5, CSS3, Bootstrap5 and JavaScript 
+# Criativo Landing Page - Creative Agency Cmpany Website using HTML5, CSS3, Bootstrap5 and JavaScript 
 
 ![Landing Page](/images/preview.png)
 
-The project involves the creation of an Criativ Landing Page - Creative Agency Cmpany Website using HTML, CSS, Bootstrap 5, and JavaScript. Criativ Landing Page  aims to provide a user-friendly and responsive platform for learners to access educational content. 
+The project involves the creation of an Criativo Landing Page - Creative Agency Cmpany Website using HTML, CSS, Bootstrap 5, and JavaScript. Criativo Landing Page  aims to provide a user-friendly and responsive platform for learners to access educational content. 
 
 
 ## Introduction
