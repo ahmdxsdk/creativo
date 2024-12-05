@@ -2,12 +2,12 @@
 
 ![Landing Page](/images/preview.png)
 
-The project involves the creation of an Criativo Landing Page - Creative Agency Cmpany Website using HTML, CSS, Bootstrap 5, and JavaScript. Criativo Landing Page  aims to provide a user-friendly and responsive platform for learners to access educational content. 
+The project focuses on developing the 'Criativo' Landing Page for a creative agency website using HTML, CSS, Bootstrap 5, and JavaScript. This landing page is designed to offer a responsive and user-friendly platform, providing visitors with easy access to the agency's services and creative solutions.
 
 
 ## Introduction
 
-"Criativo" Landing Page is a fast and reliable delivery service designed for a seamless customer experience. With an easy-to-use interface, the platform allows you to quickly place and track orders. We ensure safe, timely deliveries, making your experience hassle-free and dependable every time.
+Criativo landing page is designed to provide a fast and reliable delivery service, ensuring a seamless customer experience. With its user-friendly interface, the platform allows customers to quickly place and track their orders. We prioritize safe and timely deliveries, guaranteeing a hassle-free and dependable experience every time.
 
 ## Features
 
